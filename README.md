@@ -66,7 +66,6 @@ Sinta-se à vontade para contribuir! Siga estas etapas:
 
 ## Autor
 
-- **Seu Nome**  
-- [Seu Perfil no GitHub](https://github.com/seu-usuario)
-- Seu Email
+- **Vinicius L. Diniz**  
+- [meu Perfil no GitHub](https://github.com/viniciusldiniz)
 clean
